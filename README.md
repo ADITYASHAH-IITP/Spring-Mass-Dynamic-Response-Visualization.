@@ -3,6 +3,10 @@ Understanding Mechanical System and the importance of various terms like stiffne
 
 
 I have tried simulating spring damper mass in ADAMS.
-Uploading Video_21-05-13_14-06-31.mp4…
+
+
+https://user-images.githubusercontent.com/37467941/118100926-a8c7f180-b3f4-11eb-9f9c-f7c419025f4e.mp4
+
+
 
 
